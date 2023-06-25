@@ -1,0 +1,3 @@
+- Snowflake Database: [Here](https://app.snowflake.com/ap-southeast-1/sl45908/wG2VKX2zLrZ)
+- dbt Fundamental Certificate: [Here](https://www.credential.net/6747ae86-3347-450d-9b2e-e63aadcf3740)
+- DBT dev space: https://cloud.getdbt.com/develop/161347/projects/237740

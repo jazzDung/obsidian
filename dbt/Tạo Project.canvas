@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"```bash\nDBT_PROFILES_DIR=\"/home/jazzdung/projects/demo-dbt\"\n```","id":"9e6c1f7239694f72","x":-100,"y":-160,"width":300,"height":80},
+		{"id":"27f0abf5d9af5da2","x":-400,"y":-320,"width":250,"height":80,"type":"text","text":""}
+	],
+	"edges":[]
+}

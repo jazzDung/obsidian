@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"text","text":"A. Dạng cơ bản\n- Khu vực tích phân D được cho thằng dưới dạng a<x<b và c<y<d\n- ![[Pasted image 20230528161331.png]]","id":"ba1e59a2c3acb024","x":211,"y":-395,"width":250,"height":163},
+		{"type":"text","text":"B. D dưới dạng bounded 2 hàm\n- Khu vực tích phân D được cho thằng dưới dạng bounded by 1 trong 2 trường hợp sau\n\t- y = f(x) và y = g(x)\n\t- x = f(y) và x = g(y)\n- ![[Pasted image 20230528161858.png]]","id":"b9715b453c132863","x":-145,"y":-395,"width":272,"height":193},
+		{"type":"text","text":"C. D cho dưới dạng 2 hàm của x và 2 hàm của y\n- ![[Pasted image 20230528210036.png]]","id":"589404f8f4005792","x":-584,"y":-385,"width":343,"height":94},
+		{"type":"text","text":"**Cách giải**\n- Xem hàm f(x,y) tính tích phân trước theo x hay y dễ hơn thì làm trước\n- Ví dụ:![[Pasted image 20230528161636.png]]","id":"9dfa3985d94d240d","x":211,"y":-133,"width":373,"height":307},
+		{"type":"text","text":"**Cách giải 1 (không vẽ hình)**\n- Cách này sẽ tìm f(x) < y < g(x), nếu muốn tìm f(y) < x < g(y) thì làm tương tự nhá\n- Tìm giao điểm của 2 hàm bounded bằng cách giải hệ y = f(x) và y = g(x)\n- Lấy 2 giá nghiệm x0 x1 làm chặn cho tích phân x: x0 < x < x1\n\n","id":"ae0840cb35b932fc","x":-241,"y":-115,"width":369,"height":188},
+		{"type":"text","text":"- xét trong khoảng x đó thì f(x) lớn hơn hay g(x) lớn hơn, và biến nó thành chặn cho y tương ứng\n- Ví dụ:\n\t- Có 0 < x < 1\n\t- Và y chặn bởi hàm y = $x^2$ và $\\sqrt{x}$ \n\t- Nhận thấy khi 0 < x < 1 thì $x^2 < \\sqrt{x}$ nên chặn y sẽ là  $x^2 < y < \\sqrt{x}$ ","id":"76d825e648d3d831","x":-366,"y":304,"width":250,"height":280},
+		{"type":"text","text":"**2. Dạng bài tính tích phân kép**","id":"45ebe966ffdc7ca0","x":-9,"y":-680,"width":243,"height":68}
+	],
+	"edges":[
+		{"id":"e04356705465a7ab","fromNode":"45ebe966ffdc7ca0","fromSide":"left","toNode":"589404f8f4005792","toSide":"top"},
+		{"id":"f22e416b7c9ded91","fromNode":"45ebe966ffdc7ca0","fromSide":"bottom","toNode":"b9715b453c132863","toSide":"top"},
+		{"id":"b96096c780520972","fromNode":"45ebe966ffdc7ca0","fromSide":"bottom","toNode":"ba1e59a2c3acb024","toSide":"top"},
+		{"id":"db5678643f7162d5","fromNode":"ba1e59a2c3acb024","fromSide":"bottom","toNode":"9dfa3985d94d240d","toSide":"top"},
+		{"id":"833f9d724a5c5299","fromNode":"b9715b453c132863","fromSide":"bottom","toNode":"ae0840cb35b932fc","toSide":"top"},
+		{"id":"b867cb86626e89ca","fromNode":"589404f8f4005792","fromSide":"bottom","toNode":"76d825e648d3d831","toSide":"top"},
+		{"id":"5f48fc1e818a86d2","fromNode":"ae0840cb35b932fc","fromSide":"bottom","toNode":"76d825e648d3d831","toSide":"top"}
+	]
+}

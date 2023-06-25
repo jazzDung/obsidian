@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "55abfc7469cd6930",
+    "type": "split",
+    "children": [
+      {
+        "id": "128e10635eb193f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43021648c4d1b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/command.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73c66d9c4d62796",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13c9aebd59d23df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe6783df1f68590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a814840f2e45c671",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "234527740edc458f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#algorithm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fc30e7e2e54a680",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c6f309e79e9aeed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5afd635468520b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023daef95bb13ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Nháp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6a644546a42accf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f28263585083b8af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/command.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "865c383cddc7437f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "01856fab68940ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/command.md"
+              }
+            }
+          },
+          {
+            "id": "fb48a3ba1e93c99b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 752.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a43021648c4d1b4a",
+  "lastOpenFiles": [
+    "git/bottom.md",
+    "Vault/Bugs 🐞.md",
+    "Airbyte/Overview.md",
+    "Airbyte/Incremental Sync.md",
+    "git/command.md",
+    "Airbyte/HTTP Connector.md",
+    "Vault/Nháp.md",
+    "Journal/User hay Builder?.md",
+    "Vault/Links.md",
+    "Airbyte/Basic normalization.md",
+    "Airbyte/Replication mode.md",
+    "Algorithm/Greedy/Beautiful Pairs.md",
+    "Journal/Người tồi tệ.canvas",
+    "Journal/Meaningful Pointless day.md",
+    "Journal/Confidence.md",
+    "Journal/Bé Dũng tập viết lại.md",
+    "Journal/A day without u.md",
+    "Journal/attachments/Pasted image 20230611211040.png",
+    "Journal/attachments/Pasted image 20230611210539.png",
+    "Journal/attachments/Pasted image 20230611205959.png",
+    "Journal/attachments/Pasted image 20230611205139.png",
+    "Journal/attachments/Pasted image 20230611205104.png",
+    "Journal/attachments/Pasted image 20230611205024.png",
+    "Journal/attachments/Pasted image 20230611204708.png",
+    "Journal/attachments/Pasted image 20230611204616.png",
+    "Journal/attachments/Pasted image 20230611204515.png",
+    "TCBS/Overview.md",
+    "Đồ án/Đồ án mẫu.pdf",
+    "Đồ án/Outline.md",
+    "Đồ án.canvas",
+    "Journal/attachments/Pasted image 20230611213201.png",
+    "Journal/attachments",
+    "Đồ án",
+    "Airbyte/Untitled.md",
+    "Vault/Credit score.canvas",
+    "Airbyte/Đồ án tốt nghiệp.md",
+    "Data Structure/Pandas.md",
+    "git/Untitled.md",
+    "TCBS/Overview.md.crswap",
+    "Algorithm/Greedy/Candies.md",
+    "Algorithm/Intro/Fibonacci Numbers.md",
+    "Algorithm/Intro/Computing Runtimes and Notations.md",
+    "API/The Spotify API.md",
+    "Calculus/Giải bài tập/Tích phân 3.canvas",
+    "Calculus/Giải bài tập/Tích phân đổi biến.canvas",
+    "Calculus/Giải bài tập/Tính tích phân Polar Coordinate.canvas",
+    "Calculus/Giải bài tập/Tính tích phân kép.canvas",
+    "Calculus/Giải bài tập/Tính thể tích vật thể.canvas",
+    "Calculus/Giải bài tập/Tìm Polar Coordinate.canvas",
+    "Calculus/Giải bài tập/Tìm hình bao họ đường cong.canvas",
+    "Calculus/Exercises/MI1121E_Exercises02_NDT.pdf",
+    "Calculus/Giải bài tập",
+    "Calculus/Exercises/MI1121E_Exercises01_NDT.pdf",
+    "git",
+    "Calculus/Giải bài tập/attachments",
+    "Calculus/Exercises"
+  ]
+}

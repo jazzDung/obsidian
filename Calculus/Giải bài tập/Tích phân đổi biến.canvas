@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"**6. Tích phân đổi biến**","id":"e70e5ada522efc57","x":-290,"y":-253,"width":250,"height":60},
+		{"type":"text","text":"Tính J\nJ = x'u * y'v - x'v * y'u","id":"5a33eb331927f134","x":-257,"y":42,"width":250,"height":60},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530154240.png","id":"01faa04f32efbf13","x":-257,"y":186,"width":399,"height":67},
+		{"type":"text","text":"Nếu J khó tính quá thì tính qua J'\nJ' = u'x * v'y - u'y * v'x\nJ = 1/J'","id":"2947ccea9f2945b8","x":43,"y":36,"width":263,"height":72},
+		{"type":"text","text":"Dạng hint đổi biến\n- Miền cho dưới dạng 4 hàm f(x)\n\t- y = ax + b1\n\t- y = ax + b2\n\t- y = cx + d1\n\t- y = cx + d2\n- khi vẽ ra thấy giống hình bình hành -> đổi biến nhá\n\t- u = y - ax\n\t- v = y - cx","id":"bc929c90da17363d","x":-660,"y":-129,"width":315,"height":263},
+		{"type":"text","text":"Đặt \n- x = x(u,v)\n- y = y(u,v)","id":"53de438652199c71","x":-257,"y":-129,"width":250,"height":98}
+	],
+	"edges":[
+		{"id":"0b619462bff769da","fromNode":"e70e5ada522efc57","fromSide":"bottom","toNode":"53de438652199c71","toSide":"top"},
+		{"id":"9e334dc537a3e6e9","fromNode":"53de438652199c71","fromSide":"bottom","toNode":"5a33eb331927f134","toSide":"top"},
+		{"id":"cda6dc55772dc861","fromNode":"5a33eb331927f134","fromSide":"bottom","toNode":"01faa04f32efbf13","toSide":"top"},
+		{"id":"e0dad464ee6c82a9","fromNode":"5a33eb331927f134","fromSide":"right","toNode":"2947ccea9f2945b8","toSide":"left"},
+		{"id":"cb6f31945587c20f","fromNode":"2947ccea9f2945b8","fromSide":"bottom","toNode":"01faa04f32efbf13","toSide":"top"},
+		{"id":"3d52c7b53e5a060b","fromNode":"e70e5ada522efc57","fromSide":"left","toNode":"bc929c90da17363d","toSide":"top"}
+	]
+}

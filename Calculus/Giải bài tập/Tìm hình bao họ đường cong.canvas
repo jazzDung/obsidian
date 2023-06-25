@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"## TÌM HÌNH BAO HỌ ĐƯỜNG CONG\n## find envelope of family of curve","id":"b818fe84860c3962","x":-180,"y":-360,"width":296,"height":141},
+		{"type":"text","text":"Giải pt f'x = f'y = 0\n- Nếu có nghiệm -> Loại trừ điểm đó ra khỏi hình bao","id":"a69a7bc03193332f","x":-319,"y":-12,"width":250,"height":92},
+		{"type":"text","text":"Lấy kết quả và viết thành hàm","id":"9270cb1cbe8cbfa8","x":-86,"y":240,"width":250,"height":50},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531170118.png","id":"ac00b8e0d25de5bc","x":-69,"y":120,"width":142,"height":50},
+		{"type":"text","text":"Dạng 1\n- f(x,y,c) = 0 với c là tham số","id":"4d83e997553ff1c0","x":-319,"y":-140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"11d2fe5ff5cf5e9d","fromNode":"b818fe84860c3962","fromSide":"bottom","toNode":"4d83e997553ff1c0","toSide":"top"},
+		{"id":"3214805176bc18bd","fromNode":"ac00b8e0d25de5bc","fromSide":"bottom","toNode":"9270cb1cbe8cbfa8","toSide":"top"},
+		{"id":"0ead65a1f2f55ca0","fromNode":"4d83e997553ff1c0","fromSide":"bottom","toNode":"a69a7bc03193332f","toSide":"top"},
+		{"id":"4e8fbc73f855e49c","fromNode":"a69a7bc03193332f","fromSide":"bottom","toNode":"ac00b8e0d25de5bc","toSide":"left","label":"Giải hệ này"}
+	]
+}

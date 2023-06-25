@@ -1,0 +1,2 @@
+- Lmao stack with Airbyte + Dagster + dbt: https://blog.devgenius.io/part-2-dagster-x-airbyte-x-dbt-4b66f9b9f693
+- Another tutorial (Help connect airbyte to dagster): https://medium.com/starschema-blog/dagster-airbyte-dbt-how-software-defigned-assets-change-the-way-we-orchestrate-ac70bb29d640

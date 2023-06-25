@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Credit score","id":"f75fb0707d3add44","x":-100,"y":-300,"width":137,"height":80},
+		{"type":"text","text":"Lịch sử trả nợ\n- 35% điểm","id":"0cd9173380020e00","x":-208,"y":61,"width":177,"height":60},
+		{"type":"text","text":"Credit  mới\n- 10%\n- Tạo nhiều khoản vay mới -> Score cao","id":"02234b719d1d4aa7","x":400,"y":91,"width":197,"height":114},
+		{"type":"text","text":"Là 1 số điểm để đánh giá xem khả năng mình sẽ trả nợ là bao nhiêu","id":"2f63a16bd6c582bb","x":-400,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"Từ 300 - 850","id":"21cd30b4fbb4968e","x":-400,"y":-290,"width":160,"height":60},
+		{"type":"text","text":"Lượng nợ\n- 30%\n- Nợ nhiều -> Score cao","id":"ffb60e19b6a48351","x":-119,"y":180,"width":173,"height":117},
+		{"type":"text","text":"Thời lượng duy trì lịch sử credit\n- 15%\n- Nếu có credit trong thời gian dài -> Credit score cao","id":"8f833958bd86b1a1","x":180,"y":239,"width":262,"height":122},
+		{"type":"text","text":"**Quyết định bởi 5 yếu tố**","id":"cde56b4b7afead77","x":62,"y":-80,"width":209,"height":60},
+		{"type":"text","text":"Loại credit\n- 10%\n- Các loại vay càng đa dạng -> Score cao","id":"e49dd08b5157bec4","x":77,"y":91,"width":207,"height":111},
+		{"type":"text","text":"i don't know\nif con tôi ngàu như thế\ntôi đẻ cả đội bóng\n\nem biết cái kiểu\nceo 1 năm 1 lần, xuống khu ở công nhân để trải nghiệm không, đồng cảm với các hoàn cảnh khó khăn\n\nrút cái chun buộc tóc em lại đi\nlàm dơ bẩn cái hộp\ntí nữa trước khi đi cho anh xin phép bé í được liếm cái hộp nhé\nanh muốn biết vàng có vị gì\n\nviệt kiều à\nmỹ nhưng mà mỹ tho\ntây nhưng mà tây nguyên\n\nê mà thề bọn này edgy vãi lol\n\nman mỗi lần anh gõ phím mạnh quá, xong cái nút nó bật ra\nvà nhìn sang kia em í lướt trên màn hình cảm ứng đa điểm\nanh muốn khóc\n\nê em có nghĩ nó biết tiếng việt không\nanh muốn nghe nó nói tiếng việt quá\n\nbruh\nnó mang ipad ra chơi game trong quán cafe","id":"15b061aebf89bc7b","x":-860,"y":-290,"width":500,"height":411}
+	],
+	"edges":[
+		{"id":"9f7f7cb5eff93ba3","fromNode":"f75fb0707d3add44","fromSide":"top","toNode":"2f63a16bd6c582bb","toSide":"right"},
+		{"id":"7f87406039e393fb","fromNode":"f75fb0707d3add44","fromSide":"left","toNode":"21cd30b4fbb4968e","toSide":"right"},
+		{"id":"61884e6376ea2412","fromNode":"f75fb0707d3add44","fromSide":"bottom","toNode":"cde56b4b7afead77","toSide":"top"},
+		{"id":"944242830de83c77","fromNode":"cde56b4b7afead77","fromSide":"left","toNode":"0cd9173380020e00","toSide":"top"},
+		{"id":"9e5646bc9154c193","fromNode":"cde56b4b7afead77","fromSide":"bottom","toNode":"ffb60e19b6a48351","toSide":"top"},
+		{"id":"30b432fd08644059","fromNode":"cde56b4b7afead77","fromSide":"bottom","toNode":"e49dd08b5157bec4","toSide":"top"},
+		{"id":"b51710938ad17c86","fromNode":"cde56b4b7afead77","fromSide":"right","toNode":"02234b719d1d4aa7","toSide":"top"},
+		{"id":"d53894234c50874f","fromNode":"cde56b4b7afead77","fromSide":"right","toNode":"8f833958bd86b1a1","toSide":"top"}
+	]
+}

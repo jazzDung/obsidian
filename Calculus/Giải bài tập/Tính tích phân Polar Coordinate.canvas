@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"text","text":"Dạng 2: Cho miền dạng hàm f(x,y)\n- Đặt x = a * rcosp + b\n- y = c * rsinp + d\n- Sao cho f(x,y) trông đẹp nhất có thể\n- Sau đó dựa vào hàm f(x,y) để xác định cận của p và r","id":"6da95e4a30e9c729","x":-247,"y":-366,"width":250,"height":199},
+		{"type":"text","text":"Ví dụ\n- Dùng y > 0 để xác định cận p\n- Đặt x = rcosp + 2 để dễ lấy cận r","id":"90124f6a66bc17ef","x":-247,"y":-119,"width":250,"height":120},
+		{"type":"text","text":"Dạng 3: Hàm cần tính tích phân có trị tuyệt đối\n- Tách hết những thứ không liên quan đến trị tuyệt đối ra ngoài tính tích phân trước\n- Bên trong trị tuyệt đối chia thành 2 miền, 1 miền bên trong > 0 và 1 miền bên trong <0","id":"cdfb956c90b5e381","x":33,"y":-366,"width":281,"height":203},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530145457.png","id":"4be523e3f0978f87","x":-607,"y":102,"width":275,"height":174},
+		{"type":"text","text":"Ví dụ\n- 0 < x < R và 0 < y < $\\sqrt{R^2 - x^2}$\n- Vẽ ra được 1/4 hình tròn góc trên bên phải -> Xác định được 0<p<pi/2\n- x^2 + y^2 < R^2 -> r < R","id":"3b532f96d42f28a7","x":-582,"y":-147,"width":250,"height":175},
+		{"type":"text","text":"Dạng 1: Cho miền dạng R lớn\n- Vẽ miền đề bài đã cho ra\n- Qua đó xác định miền của r và p","id":"267f92fd6693bb66","x":-547,"y":-366,"width":250,"height":124},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530151711.png","id":"e9ae2ea784d53825","x":-287,"y":49,"width":330,"height":106},
+		{"type":"text","text":"Dạng 4: Miền cũng hàm f(x,y) nhưng có tới 3 hình tròn \n- Điểm nhận biết là miền có dạng như sau này\n- f() < x^2 + y^ 2< g() sau đó có thêm x^2 + y^2 > hoặc < h()\n- Khi vẽ hình ra sẽ có 3 đường tròn","id":"5298071de4ee14bb","x":358,"y":-377,"width":250,"height":230},
+		{"type":"text","text":"**4. Tính tích phân sử dụng polar coordinate**","id":"76a44d417bf4f9e8","x":-62,"y":-631,"width":250,"height":60},
+		{"type":"text","text":"- Chọn 2 đường tròn cắt nhau, tìm điểm cắt nhau, lấy đường nối từ O đến điểm đó cắt ra 2 miền\n- Cận của p như trước, cắt đôi ra bằng cái đường ở trên","id":"8cfd315cbfd17748","x":358,"y":-76,"width":250,"height":155},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530160917.png","id":"5dfc4ab0f0961fb2","x":118,"y":203,"width":304,"height":428}
+	],
+	"edges":[
+		{"id":"c3448b494224d044","fromNode":"6da95e4a30e9c729","fromSide":"bottom","toNode":"90124f6a66bc17ef","toSide":"top"},
+		{"id":"652f055870f53dee","fromNode":"76a44d417bf4f9e8","fromSide":"bottom","toNode":"6da95e4a30e9c729","toSide":"top"},
+		{"id":"8d08063cb43ef863","fromNode":"90124f6a66bc17ef","fromSide":"bottom","toNode":"e9ae2ea784d53825","toSide":"top"},
+		{"id":"120aa8872260d3fb","fromNode":"76a44d417bf4f9e8","fromSide":"bottom","toNode":"cdfb956c90b5e381","toSide":"top"},
+		{"id":"34edc2647dc97027","fromNode":"3b532f96d42f28a7","fromSide":"bottom","toNode":"4be523e3f0978f87","toSide":"top"},
+		{"id":"40dc4eb802113fdf","fromNode":"267f92fd6693bb66","fromSide":"bottom","toNode":"3b532f96d42f28a7","toSide":"top"},
+		{"id":"7201c6d9e67d8b6c","fromNode":"76a44d417bf4f9e8","fromSide":"bottom","toNode":"267f92fd6693bb66","toSide":"top"},
+		{"id":"cfbde84fd2c0e189","fromNode":"5298071de4ee14bb","fromSide":"bottom","toNode":"8cfd315cbfd17748","toSide":"top"},
+		{"id":"a15d12caa143d618","fromNode":"76a44d417bf4f9e8","fromSide":"bottom","toNode":"5298071de4ee14bb","toSide":"top"},
+		{"id":"d07eea82999a86de","fromNode":"8cfd315cbfd17748","fromSide":"bottom","toNode":"5dfc4ab0f0961fb2","toSide":"top"}
+	]
+}

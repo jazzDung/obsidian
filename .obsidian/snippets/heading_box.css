@@ -1,0 +1,8 @@
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 
+{
+    border: 5px solid rgb(255, 247, 0);
+    border-radius: 10px;
+    padding: 6px;
+}

@@ -1,0 +1,5 @@
+- cursor_value: ngưỡng để check xem record có được ingest vào bảng không
+	- Ví dụ: trường time stamp < cursor_value thì không được ingest
+- cursor_ field: Chọn 1 cột trong dữ liệu sync để làm nơi chứa cursor
+	- Ví dụ: Trường updated_at
+- AirbyteStateMessage: 

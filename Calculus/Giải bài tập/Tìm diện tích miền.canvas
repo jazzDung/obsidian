@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Tính diện tích miền","id":"295b7a40c142e904","x":-266,"y":-133,"width":266,"height":53},
+		{"type":"text","text":"Dạng 1\nMiền được biểu diễn bằng nhiều hàm y = ax^2 và x = by^2","id":"e2055803a739d3c6","x":-512,"y":66,"width":250,"height":94},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603002152.png","id":"5a99bd9bad0e4aba","x":-700,"y":77,"width":149,"height":73},
+		{"type":"text","text":"Vẽ hình\n- Đánh giá x, y so với 0","id":"7a646383b61efbeb","x":-511,"y":246,"width":250,"height":74},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603002806.png","id":"969b14c32a3d0dc8","x":-1000,"y":172,"width":400,"height":188},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603002749.png","id":"9a2dcd81fdcf8b8a","x":-900,"y":402,"width":255,"height":95},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603002829.png","id":"98a6def0803c4145","x":-900,"y":529,"width":288,"height":82},
+		{"type":"text","text":"Nhớ tính J nhá","id":"c2a56bb384bcc286","x":-511,"y":529,"width":250,"height":60},
+		{"type":"text","text":"Đặt \n- u = x^2/y\n- v = y^2/x","id":"ae9ea6321797e39c","x":-511,"y":402,"width":250,"height":84},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603002853.png","id":"fb82f01acbd036d6","x":-1012,"y":640,"width":398,"height":69},
+		{"type":"text","text":"Diện tích miền = Tích phân dxdy","id":"f94d9570a38fb936","x":-511,"y":656,"width":250,"height":60},
+		{"type":"text","text":"Dạng 2\nMiền biểu diễn bằng hệ 2 hàm f(x,y) có tham số a","id":"4b1460d1d70774b0","x":-228,"y":57,"width":250,"height":93},
+		{"type":"text","text":"Giải hệ ra x, y theo a\n- Sẽ có 2 nghiệm (x1, y1) và (x2,y2) nhá","id":"d69542051261c2cf","x":-231,"y":229,"width":250,"height":83},
+		{"type":"text","text":"Dựa vào nghiệm -> Tính miền của x và y theo hàm đề bài và nghiệm mới giải ra","id":"faf3cd1c501a47cd","x":-231,"y":367,"width":250,"height":83},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230603003525.png","id":"95fb1dda803fd8c7","x":0,"y":172,"width":155,"height":50},
+		{"type":"text","text":"Dạng 3\nCho r và p","id":"cc54097098f062a7","x":180,"y":54,"width":250,"height":60},
+		{"type":"text","text":"Dạng này tìm cận của r và p sau đó tính tích phân (r)drdp","id":"26a513316097c336","x":180,"y":201,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7b27c88966362360","fromNode":"295b7a40c142e904","fromSide":"bottom","toNode":"e2055803a739d3c6","toSide":"top"},
+		{"id":"b944cd92f46a11cb","fromNode":"5a99bd9bad0e4aba","fromSide":"right","toNode":"e2055803a739d3c6","toSide":"left"},
+		{"id":"ea890313dda51772","fromNode":"e2055803a739d3c6","fromSide":"bottom","toNode":"7a646383b61efbeb","toSide":"top"},
+		{"id":"84a38589f64be987","fromNode":"7a646383b61efbeb","fromSide":"bottom","toNode":"ae9ea6321797e39c","toSide":"top"},
+		{"id":"4538dac52d9c6d1b","fromNode":"ae9ea6321797e39c","fromSide":"bottom","toNode":"c2a56bb384bcc286","toSide":"top"},
+		{"id":"e056965a75696f07","fromNode":"9a2dcd81fdcf8b8a","fromSide":"right","toNode":"ae9ea6321797e39c","toSide":"left"},
+		{"id":"45ec577887f14c31","fromNode":"969b14c32a3d0dc8","fromSide":"right","toNode":"7a646383b61efbeb","toSide":"left"},
+		{"id":"2a6402738ebb171d","fromNode":"98a6def0803c4145","fromSide":"right","toNode":"c2a56bb384bcc286","toSide":"left"},
+		{"id":"71f4961eee441ac2","fromNode":"c2a56bb384bcc286","fromSide":"bottom","toNode":"f94d9570a38fb936","toSide":"top"},
+		{"id":"f98b41af6ee94b0d","fromNode":"fb82f01acbd036d6","fromSide":"right","toNode":"f94d9570a38fb936","toSide":"left"},
+		{"id":"b752a6c7c00af8c5","fromNode":"295b7a40c142e904","fromSide":"bottom","toNode":"4b1460d1d70774b0","toSide":"top"},
+		{"id":"ac044e4356f05c32","fromNode":"4b1460d1d70774b0","fromSide":"bottom","toNode":"d69542051261c2cf","toSide":"top"},
+		{"id":"7ca9157a853c17db","fromNode":"d69542051261c2cf","fromSide":"bottom","toNode":"faf3cd1c501a47cd","toSide":"top"},
+		{"id":"25c1f3b45552adf8","fromNode":"faf3cd1c501a47cd","fromSide":"bottom","toNode":"f94d9570a38fb936","toSide":"right"},
+		{"id":"93ef0666dca258ec","fromNode":"95fb1dda803fd8c7","fromSide":"top","toNode":"4b1460d1d70774b0","toSide":"right"},
+		{"id":"bd72ada0c3b67d0c","fromNode":"295b7a40c142e904","fromSide":"right","toNode":"cc54097098f062a7","toSide":"top"},
+		{"id":"8b176dc2d56ecc5b","fromNode":"cc54097098f062a7","fromSide":"bottom","toNode":"26a513316097c336","toSide":"top"}
+	]
+}

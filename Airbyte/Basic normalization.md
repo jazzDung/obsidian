@@ -1,0 +1,1 @@
+https://docs.airbyte.com/understanding-airbyte/basic-normalization/

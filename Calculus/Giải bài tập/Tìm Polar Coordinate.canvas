@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"text","text":"Bước 1\n- Đặt x = rcosp và y = rsinp","id":"7dc35af452dc1bcd","x":16,"y":-11,"width":250,"height":67},
+		{"type":"text","text":"**Nếu tìm được luôn cận r**\nBước 2: Xác định cận r\n- Biến đổi điều kiện đề bài cho theo r và p","id":"7a70b3e57a5ebd5d","x":16,"y":162,"width":250,"height":109},
+		{"type":"text","text":"**3. Tìm Polar Coordinate**","id":"6fae1d8ed8a2ca4f","x":16,"y":-146,"width":250,"height":50},
+		{"type":"text","text":"Các cận thường thấy\n- r sinp > 0 -> 0 < p < pi\n- r cosp > 0 -> -pi/2 < p > pi/2\n- Không có đk gì: 0 < p < 2pi","id":"036963b276d9495b","x":-79,"y":740,"width":250,"height":133},
+		{"type":"text","text":"VD: Có 2 đk \n- sinp > cosp\n- sinp < $\\sqrt3$ cosp\n- Thì ta vẽ ra 2 đường y = x và y = $\\sqrt3$ x\n- Và lấy p nằm trong góc kẹp giữa 2 đường","id":"ac356bb63cf37524","x":252,"y":627,"width":222,"height":180},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530142812.png","id":"ee89adc4ff744048","x":286,"y":873,"width":154,"height":141},
+		{"type":"text","text":"**Nếu không tìm được luôn cận r**\nBước 2: Tách miền cần tìm thành 2 miền con\n- Vẽ hình các điều kiện đề bài cho\n- Dùng 1 đường kẻ tách miền thành 2 miền sao cho dễ xác định cận","id":"1a1cf57ecf67b586","x":-380,"y":162,"width":250,"height":211},
+		{"type":"text","text":"Bước 3: Xác định cận p\n- Cách 2: Xác định cận của p bằng cách biến đổi điều kiện đề bài thành cận của sinp cosp gì đó, sau đó giải ra p","id":"36c6d954dd6c862a","x":-137,"y":450,"width":250,"height":132},
+		{"type":"text","text":"Bước 3: Xác định cận p\n- Cách 1: Vẽ luôn các hàm đề bài cho trên tọa độ để xác định các góc của p","id":"dc0571d48dd76aac","x":161,"y":450,"width":250,"height":116},
+		{"type":"text","text":"Ví dụ: \n- Miền trong hình không xác đinh được, dùng đường y = x để chia đôi ra\n- Khi đó cận của p sẽ là\n\t- 0 < p < pi/4\n\t- pi/4 < p < pi/2","id":"e0f3a059b58100c7","x":-443,"y":783,"width":250,"height":180},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230530143500.png","id":"735270d5ee4eb7e8","x":-505,"y":1020,"width":374,"height":400},
+		{"type":"text","text":"Bước 4: Dùng đường chia miền đó làm 1 phần cận p\n- Khi xong bước 3 tính được cận p, dùng đường vẽ ở bước 2 để tách thành 2 miền với 2 cận riêng của p","id":"d1ba4921d73a3db6","x":-443,"y":540,"width":250,"height":158}
+	],
+	"edges":[
+		{"id":"253b3d4588a462a0","fromNode":"7dc35af452dc1bcd","fromSide":"bottom","toNode":"7a70b3e57a5ebd5d","toSide":"top"},
+		{"id":"15c6342f71fa09f8","fromNode":"7a70b3e57a5ebd5d","fromSide":"bottom","toNode":"dc0571d48dd76aac","toSide":"top"},
+		{"id":"bd89cb3891849884","fromNode":"7a70b3e57a5ebd5d","fromSide":"bottom","toNode":"36c6d954dd6c862a","toSide":"top"},
+		{"id":"f1641decfd9ccc65","fromNode":"7dc35af452dc1bcd","fromSide":"bottom","toNode":"1a1cf57ecf67b586","toSide":"top"},
+		{"id":"9e47e7c86677c10b","fromNode":"6fae1d8ed8a2ca4f","fromSide":"bottom","toNode":"7dc35af452dc1bcd","toSide":"top"},
+		{"id":"272c3169fc06427d","fromNode":"dc0571d48dd76aac","fromSide":"bottom","toNode":"ac356bb63cf37524","toSide":"top"},
+		{"id":"d3534e7f64c4480e","fromNode":"36c6d954dd6c862a","fromSide":"bottom","toNode":"036963b276d9495b","toSide":"top"},
+		{"id":"6a9ff230e89b44a1","fromNode":"ac356bb63cf37524","fromSide":"bottom","toNode":"ee89adc4ff744048","toSide":"top"},
+		{"id":"55beb77ab6360837","fromNode":"1a1cf57ecf67b586","fromSide":"bottom","toNode":"d1ba4921d73a3db6","toSide":"top"},
+		{"id":"6315a69513d1d959","fromNode":"d1ba4921d73a3db6","fromSide":"bottom","toNode":"e0f3a059b58100c7","toSide":"top"},
+		{"id":"9bb11ed7403c6ee5","fromNode":"e0f3a059b58100c7","fromSide":"bottom","toNode":"735270d5ee4eb7e8","toSide":"top"}
+	]
+}
