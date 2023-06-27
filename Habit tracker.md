@@ -1,5 +1,0 @@
-dgsksjkwideidididjdjejejdidjsnsw
-
-
-bruh
-bruh
