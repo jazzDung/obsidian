@@ -11,11 +11,14 @@
             "id": "9f4456a720c8f8c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Habit tracker.md",
-                "mode": "source",
-                "source": false
+                "file": "Vault/Credit score.canvas",
+                "viewState": {
+                  "x": 178.11063345819207,
+                  "y": 247.85015542725014,
+                  "zoom": -0.8286901124651127
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Habit tracker.md",
+            "file": "Vault/Credit score.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Habit tracker.md",
+            "file": "Vault/Credit score.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Habit tracker.md"
+            "file": "Vault/Credit score.canvas"
           }
         }
       }
@@ -132,8 +135,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f4456a720c8f8c2",
+  "active": "e820361f5891048c",
   "lastOpenFiles": [
+    "Vault/Todo ✅.md",
+    "Vault/Links.md",
+    "Vault/Credit score.canvas",
     "Habit tracker.md",
     "Vault/Nháp.md"
   ]

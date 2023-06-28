@@ -25,4 +25,5 @@
 - [ ] Thử cái tính năng test
 
 **Kubernetes**
-- [ ] Bê mọi thứ lên K8s để xem chạy có vấn đề gì không
+- [ ] Bê mọi thứ lên K8s để xem chạy có vấn đề gì không 
+- [ ] Testing 📅 2023-06-27 ⏫ 🔁 
