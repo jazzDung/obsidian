@@ -8,12 +8,10 @@
 		{"type":"text","text":"**Tangent**","id":"20b7c9ddf0601c17","x":-387,"y":260,"width":107,"height":50},
 		{"type":"text","text":"**Normal**","id":"0de5c032c7fa4680","x":-113,"y":260,"width":103,"height":50},
 		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531152420.png","id":"9d8bfa1ecd62f852","x":-540,"y":389,"width":383,"height":50},
-		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531152458.png","id":"f39ef6afd7268ee1","x":-113,"y":380,"width":205,"height":59},
 		{"type":"text","text":"**Dạng 1**\n- PT dạng f(x,y,z) = 0\n- Tại 1 điểm M","id":"d40fd4b84f964fa4","x":-238,"y":-83,"width":250,"height":86},
 		{"type":"text","text":"**Tangent**","id":"00a0746c0f4ff859","x":133,"y":180,"width":107,"height":53},
 		{"type":"text","text":"**Normal**","id":"e8e10820a172523c","x":359,"y":180,"width":103,"height":53},
 		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531152903.png","id":"c0c60d1b15974f95","x":60,"y":285,"width":253,"height":50},
-		{"type":"text","text":"**Dạng 2**\n- PT dạng x = x(t), y=y(t), z=z(t)","id":"a29d647c33676a4b","x":45,"y":-83,"width":250,"height":60},
 		{"type":"text","text":"Bước 1\n- Thay M vào tìm x't0, y't0, z't0","id":"f4fce3b370ada0d4","x":133,"y":50,"width":250,"height":60},
 		{"type":"text","text":"**Dạng 3**\n- Giao của 2 PT f(x,y,z) và g(x,y,z)","id":"f46bb524a1b0cedb","x":440,"y":-83,"width":256,"height":60},
 		{"type":"text","text":"Tìm vecto nf và ng\n- nf = (f'xM, f'yM, f'zM)\n- ng = (f'xM, f'yM, f'zM)","id":"5422fed74a5e4ff6","x":478,"y":49,"width":250,"height":91},
@@ -21,7 +19,9 @@
 		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531152747.png","id":"0584a32d83f951a3","x":187,"y":389,"width":344,"height":50},
 		{"type":"text","text":"$\\mathrm{Computing\\:cross\\:product\\:of\\:two\\:vectors}$\n$(u_1,\\:u_2,\\:u_3)\\times (v_1,\\:v_2,\\:v_3)=(u_2v_3-u_3v_2,\\:u_3v_1-u_1v_3,\\:u_1v_2-u_2v_1)$","id":"12d8b0093053e254","x":800,"y":213,"width":380,"height":91},
 		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531164157.png","id":"ae18a4fcebaa7bee","x":525,"y":500,"width":400,"height":115},
-		{"type":"text","text":"Coi vecto n là (x't0, y't0, z't0)\nVà pt tiếp tuyến tiếp diện như dạng 2","id":"39b5c9ba3dc5f322","x":600,"y":370,"width":250,"height":80}
+		{"type":"text","text":"Coi vecto n là (x't0, y't0, z't0)\nVà pt tiếp tuyến tiếp diện như dạng 2","id":"39b5c9ba3dc5f322","x":600,"y":370,"width":250,"height":80},
+		{"type":"text","text":"**Dạng 2**\n- PT dạng x = x(t), y=y(t), z=z(t)","id":"a29d647c33676a4b","x":133,"y":-70,"width":250,"height":60},
+		{"type":"file","file":"Calculus/Giải bài tập/attachments/Pasted image 20230531152458.png","id":"f39ef6afd7268ee1","x":-113,"y":389,"width":205,"height":59}
 	],
 	"edges":[
 		{"id":"c2f55bc0deb4e87b","fromNode":"fd45b1da4ad02579","fromSide":"bottom","toNode":"d40fd4b84f964fa4","toSide":"top"},

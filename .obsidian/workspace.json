@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "128e10635eb193f7",
+        "id": "b6e11744f227b10d",
         "type": "tabs",
         "children": [
           {
-            "id": "a43021648c4d1b4a",
+            "id": "a79b79b026d02614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/command.md",
+                "file": "DNSE/Hackathon/mdp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b73c66d9c4d62796",
+            "id": "7a69c9be3d02a076",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vault/decisions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/command.md",
+                "file": "Vault/decisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/command.md",
+                "file": "Vault/decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/command.md"
+                "file": "Vault/decisions.md"
               }
             }
           },
@@ -155,6 +160,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "57bcfe6b676f2056",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -176,63 +191,62 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a43021648c4d1b4a",
+  "active": "7a69c9be3d02a076",
   "lastOpenFiles": [
-    "git/bottom.md",
-    "Vault/Bugs 🐞.md",
-    "Airbyte/Overview.md",
-    "Airbyte/Incremental Sync.md",
-    "git/command.md",
-    "Airbyte/HTTP Connector.md",
-    "Vault/Nháp.md",
-    "Journal/User hay Builder?.md",
+    "DNSE/Hackathon/mdp.md",
+    "Vault/decisions.md",
+    "Vault/Nháp.canvas",
     "Vault/Links.md",
-    "Airbyte/Basic normalization.md",
-    "Airbyte/Replication mode.md",
-    "Algorithm/Greedy/Beautiful Pairs.md",
-    "Journal/Người tồi tệ.canvas",
-    "Journal/Meaningful Pointless day.md",
-    "Journal/Confidence.md",
-    "Journal/Bé Dũng tập viết lại.md",
-    "Journal/A day without u.md",
-    "Journal/attachments/Pasted image 20230611211040.png",
-    "Journal/attachments/Pasted image 20230611210539.png",
-    "Journal/attachments/Pasted image 20230611205959.png",
-    "Journal/attachments/Pasted image 20230611205139.png",
-    "Journal/attachments/Pasted image 20230611205104.png",
-    "Journal/attachments/Pasted image 20230611205024.png",
-    "Journal/attachments/Pasted image 20230611204708.png",
-    "Journal/attachments/Pasted image 20230611204616.png",
-    "Journal/attachments/Pasted image 20230611204515.png",
-    "TCBS/Overview.md",
+    "Vault/Duy CV.md",
+    "Vault/attachments/Pasted image 20231018102346.png",
+    "Vault/attachments/Pasted image 20231017141132.png",
+    "DNSE/101/Airbyte 3.0.md",
+    "DNSE/101/attachments/Pasted image 20231006113226.png",
+    "DNSE/101/attachments/Pasted image 20231006113129.png",
+    "DNSE/101/attachments/Pasted image 20231006113117.png",
+    "DNSE/101/attachments/Pasted image 20231006113018.png",
+    "DNSE/101/attachments/Pasted image 20231006112955.png",
+    "DNSE/101/attachments/Pasted image 20231006112926.png",
+    "DNSE/101/Viết Ticket.md",
+    "DNSE/Hackathon/attachments/Pasted image 20230929172236.png",
+    "git/command.md",
+    "git/bottom.md",
+    "DNSE/101/Git gud.md",
+    "DNSE/SMG stock_ohlc.md",
+    "DNSE/101/Đặt tên Dashboard.md",
+    "DNSE/101/DCP - Data Collection Platform.md",
+    "DNSE/101/relative url.md",
+    "DNSE/101/MDP - Market Data Platform.md",
+    "Vault/Nháp.md",
+    "Vault/attachments/Pasted image 20230913153855.png",
+    "Vault/attachments",
+    "DNSE/Hackathon/Untitled.md",
+    "Knowledge Base/CSS.md",
+    "DNSE/101/attachments",
+    "DNSE/Hackathon/Product strategy.md",
+    "Knowledge Base/URL.md",
+    "DNSE/Hackathon/Pitch Deck.md",
+    "Đồ án/Outline Slide.md",
+    "DNSE/Script pitch.md",
+    "Knowledge Base",
+    "Vault/Untitled",
+    "DNSE/DATA 678.md",
+    "DNSE/DATA 675 - 676.md",
+    "Vault/Todo ✅.md",
     "Đồ án/Đồ án mẫu.pdf",
-    "Đồ án/Outline.md",
-    "Đồ án.canvas",
-    "Journal/attachments/Pasted image 20230611213201.png",
-    "Journal/attachments",
-    "Đồ án",
-    "Airbyte/Untitled.md",
-    "Vault/Credit score.canvas",
-    "Airbyte/Đồ án tốt nghiệp.md",
-    "Data Structure/Pandas.md",
-    "git/Untitled.md",
-    "TCBS/Overview.md.crswap",
-    "Algorithm/Greedy/Candies.md",
-    "Algorithm/Intro/Fibonacci Numbers.md",
-    "Algorithm/Intro/Computing Runtimes and Notations.md",
-    "API/The Spotify API.md",
+    "DNSE/Hackathon/attachments",
+    "DNSE/101",
+    "DNSE/Hackathon",
+    "Journal/Báo cáo điểm danh.pdf",
+    "Math Modelling/Intro.canvas",
+    "Math Modelling/attachments",
+    "Calculus/Giải bài tập/Tích phân đường.canvas",
+    "Calculus/Giải bài tập/Tim độ cong.canvas",
     "Calculus/Giải bài tập/Tích phân 3.canvas",
-    "Calculus/Giải bài tập/Tích phân đổi biến.canvas",
-    "Calculus/Giải bài tập/Tính tích phân Polar Coordinate.canvas",
-    "Calculus/Giải bài tập/Tính tích phân kép.canvas",
+    "Calculus/Giải bài tập/Tìm diện tích miền.canvas",
     "Calculus/Giải bài tập/Tính thể tích vật thể.canvas",
     "Calculus/Giải bài tập/Tìm Polar Coordinate.canvas",
-    "Calculus/Giải bài tập/Tìm hình bao họ đường cong.canvas",
-    "Calculus/Exercises/MI1121E_Exercises02_NDT.pdf",
-    "Calculus/Giải bài tập",
-    "Calculus/Exercises/MI1121E_Exercises01_NDT.pdf",
-    "git",
-    "Calculus/Giải bài tập/attachments",
-    "Calculus/Exercises"
+    "Calculus/Giải bài tập/Tiếp diện - Tiếp tuyến.canvas",
+    "Calculus/Giải bài tập/Tính tích phân kép.canvas"
   ]
 }

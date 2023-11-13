@@ -1,19 +1,5 @@
 {
-  "accentColor": "#944300",
-  "theme": "moonstone",
-  "interfaceFontFamily": "Josefin Sans",
-  "textFontFamily": "Josefin Sans",
-  "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 12,
-  "enabledCssSnippets": [
-    "image",
-    "page_divider",
-    "callout",
-    "snippet — colored-folders",
-    "snippet — custom-list-styles__adding-decimals"
-  ],
-  "translucency": false,
+  "accentColor": "",
   "cssTheme": "Sanctum",
-  "nativeMenus": false,
-  "showViewHeader": true
+  "theme": "moonstone"
 }

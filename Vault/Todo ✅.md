@@ -1,4 +1,9 @@
-**Postgres**
+
+Gias
+
+Post
+
+Postgres
 - [ ] Tích hợp TimescaleDB 
 	- [ ] Setup Hypertable
 	- [ ] Setup tính năng compress dữ liệu theo độ cũ mới dữ liệu
